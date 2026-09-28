@@ -1,0 +1,7 @@
+model,format,latency_mean_ms,latency_std_ms,latency_min_ms,latency_max_ms,fps
+yolov8n,pt,4.538,0.883,4.286,13.142,220.362
+yolov8n,engine,1.436,0.019,1.404,1.519,696.361
+yolov8s,pt,5.672,0.495,5.324,8.206,176.308
+yolov8s,engine,2.206,0.184,2.054,3.013,453.215
+yolov8m,pt,15.569,0.189,15.300,16.357,64.231
+yolov8m,engine,3.956,0.172,3.436,4.540,252.788
