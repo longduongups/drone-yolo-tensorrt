@@ -12,7 +12,7 @@ suivi automatique.
 
 1. Convertit YOLOv8 (n / s / m) PyTorch en moteurs **TensorRT FP16**
 2. Compare la latence et le FPS des deux formats sur RTX 4060
-3. Fait suivre une voiture par un drone en autonomie *(à venir)*
+3. Fait suivre une voiture par un drone en autonomie
 
 ## ⚙️ Environnement
 
