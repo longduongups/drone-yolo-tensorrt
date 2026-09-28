@@ -1,0 +1,36 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ============ Environnements virtuels ============
+venv/
+env/
+.venv/
+
+# ============ Modèles ML (lourds, régénérables) ============
+*.pt
+*.onnx
+*.fp16.onnx
+*.engine
+
+# ============ Dossiers de gros fichiers ============
+tensorrt-benchmark/models/
+tensorrt-benchmark/runs/
+tracking-node/models/
+
+# ============ Repo externe (pas notre code) ============
+upstream/
+
+# ============ IDE ============
+.vscode/
+.idea/
+*.swp
+
+# ============ OS ============
+.DS_Store
+Thumbs.db
+
+# ============ Logs & temp ============
+*.log
+tmp/
